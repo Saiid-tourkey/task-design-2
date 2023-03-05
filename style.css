@@ -1,0 +1,240 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    position: sticky;
+    margin-left: 120px ;padding-top: 50px
+    ;
+    
+   
+}
+nav a{
+ text-decoration: none;
+ color: #3a3939;
+ font-size: 25px;
+ padding:10px 20px;
+ margin:0px 15px;
+ 
+
+}
+
+nav img{
+    width: 200px;
+    height: 120px;
+
+ margin-top: 30px;
+ position: relative;
+ top: 40px;
+ left: 20px;
+
+}
+.right {width: 120px;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    margin-right: 150px;
+    margin-top: 70px;
+    border-radius: 50px 50px;
+    border:none;
+
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 350px;
+    
+}
+.graph{margin-left: 100px;
+   
+   
+}
+.graph1{font-size: 70px;
+    color:rgb(56, 63, 63)
+}
+.graph2{font-size: 34px;
+    color:rgb(78, 90, 90);
+margin-top: 30px;}
+    .top{
+        background-image: url(blue_bg.png);
+        background-size: cover;
+        height: 1000px
+    }
+    .deliver{color: #673ba1;}
+    .child{
+        position:absolute;
+       
+    }
+    .a{
+        z-index: -1;
+        position:absolute;
+        right: 14px;
+        top: 100px;
+      
+        
+    }
+    .b{
+        z-index: 1;
+        position:absolute;
+        right: 250px;
+        top: 635px;
+       
+    }
+    .c{
+    z-index: 1;
+        position:absolute;
+        right: 400px;
+        top: 800px;
+        
+    }
+    .middle{
+        display: flex;
+        justify-content: space-around;
+        position: relative;
+        text-align: center;
+      
+    }
+    .pic1{
+        margin-top: 200px;
+        margin-left: 300px;
+        width: 750px;
+    }
+    .pic2{
+        margin-top: 420px;
+        margin-left: 300px;
+        width: 870px;
+    }
+    .pic3{
+        margin-top: 750px;
+        margin-right: 250px;
+        width: 900px;
+    }
+    .pic4{
+        position: absolute;
+        top: 120px;
+        left: 500px;
+        z-index: -1;
+    }
+    .pic5{
+        position: absolute;
+        top: 650px;
+        left: 300px;
+    }
+    .graph5{
+        position: absolute;
+        top: 750px;
+        left: 400px;
+        text-align: left;
+    }
+    .graph6{
+        font-size: 30px;
+        color: white;
+    }
+    .graph7{font-size: 59px;
+        color: white;}
+        .gray{
+            color: gray;
+            margin-top: 10px;
+        }
+
+    .container{
+       
+      margin-left: 20%;
+      margin-top: 100px;
+    }
+    .arrow{
+        font-size: 50px ;
+        color: gray;
+        margin: 20px;
+    }
+    .round{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       text-align:center ;
+    }
+    .p1{
+        font-size: 35px;
+        margin-top: 40px;
+        color: rgb(107, 106, 106);
+    }
+    .p2{
+     font-size: 28px;
+     margin-top: 30px;
+     color: gray
+    }
+    .footer{
+        
+        position: relative;
+        background-image: url(Group\ 1131.png);
+        border: 1px solid white;
+        height: 700px;
+        
+       
+    }
+    .footer1{
+        display: flex;
+        position: relative;
+        margin-left: 90px;
+        margin-top: 500px;
+
+    }
+    .apple1{
+        position: absolute;
+        top: 18px;left:10px ;
+    }
+    .apple2{
+        margin-right: 45px;
+        width: 200px;
+        height: 70px;
+        border-radius: 20px ;
+        border: none;background-color: white;
+    }
+    .playstore1{
+        position: absolute;
+        top: 18px;left:260px ;
+    }
+    .playstore2{
+        width: 200px;
+        height: 70px;
+        border-radius: 20px ;
+        border: none;background-color: white;
+    }
+    .img6{
+        position: absolute;
+        bottom: 0px;;right: 160px ;
+        width: 900px;
+    }
+    .footer2{
+        margin-left:80px ;
+    }
+    .social{
+        margin: 15px;
+        margin-top: 30px;
+        
+    }
+    .footer3{
+        margin-left: 80px ;
+    }
+    .a2{
+        color: white;
+        text-decoration: none;
+        font-size: 25px;
+        margin: 20px;
+    }
+       
+
+   
+    
